@@ -1,7 +1,9 @@
 # Iris-Data-Analysis
 
 I will use "Iris Dataset" 
-Using Streamlit to present data and Share My Findings
+Using Streamlit to present data and Share My Finding
+
+Streamlit is a Python webframe work for sharing and story-telling
 
 
 I have Design the app layout and components in data_explorer.py:
